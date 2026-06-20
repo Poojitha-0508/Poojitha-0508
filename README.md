@@ -47,7 +47,6 @@ analyst = {
 ### 🗃️ Data & Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -79,13 +78,6 @@ analyst = {
 | 📋 **Reporting** | Business reports, KPI tracking, and automated Excel workflows |
 | ☁️ **Cloud Analytics** | Google BigQuery for large-scale data processing |
 
----
-
-## 🌱 Currently Exploring
-
-- 📐 Advanced DAX for Power BI
-- ☁️ dbt (data build tool) for analytics engineering
-- 🤖 ML foundations for predictive analytics
 
 ---
 
